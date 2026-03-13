@@ -1,0 +1,6 @@
+# Add Terabox share links here, one per line.
+# Lines starting with # and blank lines are ignored.
+#
+# Example:
+# https://terabox.com/s/xxxxxxxx
+# https://1024terabox.com/s/yyyyyyyy

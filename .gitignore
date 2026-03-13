@@ -1,0 +1,33 @@
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Terabox session
+database/terabox_cookies.json
+database/db.sqlite
+
+# Logs
+logs/*.log
+logs/*.log.zip
+
+# Playwright
+.playwright/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
